@@ -161,7 +161,7 @@ int main()
             display(accounts, numAccounts, accountNumber);
             break;
         case 5:
-            printf("Thank You for using PESU Banking System\n");
+            printf("Thank You for using our Banking System\n");
             break;
         default:
             printf("Invalid choice. Please try again.\n");
